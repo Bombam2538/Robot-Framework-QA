@@ -5,7 +5,7 @@ Library    String
 Suite Teardown     Close Browser
 *** Variable ***
 ${url_TodoList}        https://abhigyank.github.io/To-Do-List/
-${title_todolist}      To Do List
+${title_todolist}      To Do LIST
 ${input_additem}      //*[@id="new-task"]
 ${btn_add}            //*[@id="add-item"]/button/i
 ${lnk_todotasks}      //*[@href="To-Do Tasks"]/a
